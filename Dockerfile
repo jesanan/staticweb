@@ -8,4 +8,4 @@ RUN echo 'Hi, I am in your container' \
 
 CMD [ "nginx", "-g", "daemon off;" ]
 
-EXPOSE 800
+EXPOSE 80
